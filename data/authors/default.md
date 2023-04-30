@@ -12,4 +12,4 @@ twitter : https://twitter.com/pathakanuj24
 
 Hi I am a Software developer and aspiring Machine Learning Engineer from India.  who is always looking for ways to turn data into useful insights.
 
-My professional background is in data analysis, machine learning techniques, and the development of complete data science solutions. My main objective is to apply my data science knowledge to address real-world problems and make a positive difference in the world
+My professional background is in data analysis, machine learning techniques, and the development of complete data science solutions. My main objective is to apply my data science knowledge to address real-world problems and make a positive difference in the world. I am constantly seeking opportunities to expand my skill set and stay up-to-date with the latest industry trends. Thank you for visiting my profile, and I look forward to connecting with you!" 
