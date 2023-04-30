@@ -2,7 +2,7 @@
 name: Anuj Pathak
 avatar: /static/img/web.jpeg
 occupation: Software Developer 
-company: Medicaps Universty
+company: Medicaps University
 email: pathakanuj807@gmail.com
 linkedin: https://www.linkedin.com/in/anuj-pathak/
 github: https://github.com/Anujpathak22
